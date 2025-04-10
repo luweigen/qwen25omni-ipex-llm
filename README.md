@@ -1,1 +1,1 @@
-# qwen25omni-ipex-llm
+# Qwen2.5 omni with ipex-llm
